@@ -1,2 +1,4 @@
-# sgpe-rs
-Numerical solution of the stochastic Gross–Pitaevskii equation (SGPE) in Rust.
+# Stochastic Gross–Pitaevskii Equation (Rust)
+This library implements a stochastic Gross-Pitaevskii equation (SGPE) solver for simulating Bose-Einstein condensates in various trap configurations. The code is written in Rust (https://www.rust-lang.org).
+
+The documentation is available at 

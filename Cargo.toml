@@ -1,0 +1,27 @@
+[package]
+name = "sgpe"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+keywords = ["sgpe", "physics", "bose-einstein condensation", "runge kutta"]
+categories = ["science", "algorithms"]
+authors = ["Jack Griffiths <me@jackg.co>"]
+description = "Numerical solution of the stochastic Gross–Pitaevskii equation (SGPE) in Rust."
+readme = "README.md"
+homepage = "https://jackg.co"
+repository = "https://github.com/0jg/sgpe-rs"
+
+[dependencies]
+ndarray = "0.15.6"
+ndarray-rand = "0.14.0"
+ndarray-linalg = "0.16.0"
+num-complex = "0.4.3"
+rand = "0.8.5"
+rayon = "1.7.0"
+plotters = "0.3.4"
+itertools = "0.11.0"
+num-traits = "0.2.15"
+num = "0.4.0"
+rand_distr = "0.4.3"
+assert_approx_eq = "1.1"
+rustfft = "6.1.0"

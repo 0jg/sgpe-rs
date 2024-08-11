@@ -18,10 +18,10 @@ use rayon::ThreadPoolBuilder;
 use std::env;
 use std::path::PathBuf;
 
-use spgpe::types::*;
-use spgpe::constants::*;
-use spgpe::utils::*;
-use spgpe::rkf45;
+use sgpe::types::*;
+use sgpe::constants::*;
+use sgpe::utils::*;
+use sgpe::rkf45;
 
 use rand::Rng;
 

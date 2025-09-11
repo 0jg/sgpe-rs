@@ -1,0 +1,26 @@
+rb87 atomic_mass: 1.4432e-25
+rb85 atomic_mass: 1.4100e-25
+chosen species mass: 1.4432e-25
+trap frequency_x: 1.5221e2
+trap frequency_y: 1.4799e2
+trap frequency_z: 6.2832e2
+trap depth: 5.1608e1
+scalings temperature: 8.6013e8
+scalings length_x: 2.1911e-6
+scalings length_y: 2.1911e-6
+scalings length_z: 1.0784e-6
+scalings time: 1.5221e2
+scalings chemical potential: 6.2299e31
+condensate temperature: 6.8811e1
+condensate gamma: 1.0000e-1
+condensate scattering_length: 5.2918e-9
+condensate chemical_potential: 2.4000e1
+simulation grid_size: 3.6512e1
+simulation gridpoints: (256, 256)
+simulation step_size: (1.4262e-1, 1.4262e-1)
+simulation timesteps: 1.0000e5
+simulation timestep: 1.0000e-3
+simulation runs: 1.0000e3
+interaction strength: 2.4600e-2
+noise magnitude: 0.822530626055463
+EOF

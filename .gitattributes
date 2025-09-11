@@ -1,0 +1,9 @@
+target filter=lfs diff=lfs merge=lfs -text
+y.txt filter=lfs diff=lfs merge=lfs -text
+Архів.zip filter=lfs diff=lfs merge=lfs -text
+Cargo.toml filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+params.txt filter=lfs diff=lfs merge=lfs -text
+x.txt filter=lfs diff=lfs merge=lfs -text
+Cargo.lock filter=lfs diff=lfs merge=lfs -text
+output filter=lfs diff=lfs merge=lfs -text
